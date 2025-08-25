@@ -23,15 +23,25 @@ AI 기반 객체 인식(Computer Vision)과 모바일 앱 개발에 관심이 �
 
 1. **YOLO Android App**  
    - YOLO 모델을 TFLite로 변환하여 Android 앱에서 실시간 객체 탐지 구현  
-   - [📽 시연영상](링크 추가 예정) · [💻 코드](링크 추가 예정)
+   - [📽 시연영상](https://youtube.com/shorts/dHgmetfdAX4?feature=share)
 
-2. **RC Column P–M Interaction Diagram**  
-   - Python으로 철근콘크리트 기둥의 P–M 상호작용 다이어그램 자동 계산 & 시각화  
-   - [💻 코드](링크 추가 예정)
+2. **동물 피부병 감지 & 예방 관리 웹 시스템**  
+   - YOLO로 반려동물 피부병을 감지하고, **룰-매핑 기반 시스템**으로 맞춤형 예방/관리 팁 제공  
+   - [📽 시연영상](https://youtu.be/83n_2B2Tl6U)
 
-3. **데이터 분석 미니 프로젝트**  
-   - Python & R을 활용해 데이터 시각화 및 간단한 머신러닝 모델 실험  
+3. **러너 매칭 & 트래킹 앱**  
+   - 주변 러너 매칭, 만보기 기능, 동선 트래킹 기능이 포함된 러닝 앱  
+   - [📽 시연영상](https://youtu.be/TPTje8dXx_U)
 
+---
+
+## 📄 Publications
+
+- **웨어러블 AI 도슨트: 스마트글래스 기반 실시간 미술품 인식 및 다국어 해설 시스템**  
+  - YOLO + GPT-4 기반 스마트 글래스 도슨트 연구  
+  - *mAP@0.5 = 0.97* 성능 달성  
+  - [📄 논문 PDF](https://drive.google.com/file/d/1EzoVP27mm2i29lfui6COHtIiZ1kGA0Ba/view) :contentReference[oaicite:0]{index=0}
+  - [📽 시연영상](https://youtu.be/0QohEidcuHg)
 ---
 
 ## 📝 Academic & Teaching Experience
