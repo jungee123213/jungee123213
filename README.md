@@ -26,7 +26,7 @@ AI 기반 객체 인식(Computer Vision)과 모바일 앱 개발에 관심이 �
    - [📽 시연영상](https://youtube.com/shorts/dHgmetfdAX4?feature=share)
 
 2. **동물 피부병 감지 & 예방 관리 웹 시스템**  
-   - YOLO로 반려동물 피부병을 감지하고, **룰-매핑 기반 시스템**으로 맞춤형 예방/관리 팁 제공  
+   - YOLO로 반려동물 피부병을 감지하고, 룰-매핑 기반 시스템으로 맞춤형 예방/관리 팁 제공  
    - [📽 시연영상](https://youtu.be/83n_2B2Tl6U)
 
 3. **러너 매칭 & 트래킹 앱**  
