@@ -40,8 +40,4 @@ AI 기반 객체 인식(Computer Vision)과 모바일 앱 개발에 관심이 �
   - 블록 코딩, Python, Java, Roblox Studio, Android Studio 강의  
   - 초·중·고 학생 대상 프로그래밍 기초부터 앱/게임 제작까지 지도  
 
-- **대학 프로젝트 발표**  
-  - 데이터 사이언스 수업 팀 프로젝트 발표  
-  - Android 앱 개발 실습 발표  
-
 ---
